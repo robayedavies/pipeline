@@ -1,5 +1,5 @@
 ---
-title: Discussion time
+title: "Discussion: what do we share?"
 teaching: null
 exercises: null
 duration: 15
@@ -8,8 +8,10 @@ questions:
   - What does each stage comprise?
   - How do the number and constituents of stages vary between disciplines,
     research groups, and individuals?
+  - Which elements of which stages should we share?
 objectives:
   - Identify the diversity and commonalities of workflows
+  - Begin to identify the challenges we face in sharing workflow elements
 keypoints: null
 is-break: null
 ukrn_wb_rules:
