@@ -1,7 +1,7 @@
 ---
 title: "Discussion: what do we share?"
 teaching: null
-exercises: null
+exercises: 15
 duration: 15
 summary: We co-write a list of workflow pipeline stages.
 questions:
