@@ -1,22 +1,15 @@
 ---
-title: Text Lesson
+title: Discussion time
 teaching: 10
 exercises: 20
 duration: null
-summary: This template shows you how to use the various different special text
-  boxes on offer.
+summary: We co-write a list of workflow pipeline stages.
 questions:
-  - |-
-    -- what are the stages of the pipeline for you?
-    -- what are the documents associated with each stage?
-    -- what are the processes that get you from stage to stage?
-    -- how do you enact version control -- if you do?
-    -- ethics? --  what if people were not asked at consent about the data?
-    -- does GDPR have exception clauses?
-    -- licensing?
-    -- getting scooped?
-    -- DOIs -- publication?
-objectives: null
+  - What does each stage comprise?
+  - How do the number and constituents of stages vary between disciplines,
+    research groups, and individuals?
+objectives:
+  - Identify the diversity and commonalities of workflows
 keypoints: null
 is-break: null
 ukrn_wb_rules:
