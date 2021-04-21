@@ -1,6 +1,6 @@
 ---
-title: Video Lesson
-teaching: null
+title: Introduction
+teaching: 10
 exercises: null
 duration: null
 summary: This template shows you how to include embedded videos in your lessons.
