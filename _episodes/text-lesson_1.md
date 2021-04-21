@@ -1,5 +1,5 @@
 ---
-title: "Discussion: what do we share?"
+title: "Discussion: what should or must we share?"
 teaching: null
 exercises: 15
 duration: 15
