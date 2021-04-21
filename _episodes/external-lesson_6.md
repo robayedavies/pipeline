@@ -1,7 +1,7 @@
 ---
 title: Motivations
-teaching: 20
-exercises: 10
+teaching: 15
+exercises: 5
 duration: null
 summary: This template shows you how to use an external tutorial as a lesson.
 questions: null
