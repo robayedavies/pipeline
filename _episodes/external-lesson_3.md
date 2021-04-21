@@ -1,6 +1,6 @@
 ---
-title: External Lesson
-teaching: null
+title: Version control and naming things
+teaching: 20
 exercises: 20
 duration: null
 summary: This template shows you how to use an external tutorial as a lesson.
