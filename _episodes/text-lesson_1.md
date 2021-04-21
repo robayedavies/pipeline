@@ -1,11 +1,21 @@
 ---
 title: Text Lesson
-teaching: null
-exercises: null
+teaching: 10
+exercises: 20
 duration: null
 summary: This template shows you how to use the various different special text
   boxes on offer.
-questions: null
+questions:
+  - |-
+    -- what are the stages of the pipeline for you?
+    -- what are the documents associated with each stage?
+    -- what are the processes that get you from stage to stage?
+    -- how do you enact version control -- if you do?
+    -- ethics? --  what if people were not asked at consent about the data?
+    -- does GDPR have exception clauses?
+    -- licensing?
+    -- getting scooped?
+    -- DOIs -- publication?
 objectives: null
 keypoints: null
 is-break: null
