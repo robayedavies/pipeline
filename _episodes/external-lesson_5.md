@@ -1,16 +1,16 @@
 ---
-title: External Lesson
-teaching: null
-exercises: 20
+title: Reproducibility
+teaching: 20
+exercises: 10
 duration: null
-summary: This template shows you how to use an external tutorial as a lesson.
-questions: null
+summary: Discuss kinds of reproducibility
+questions:
+  - What is reproducible?
+  - What are the degrees of reproducibility?
 objectives:
-  - Understand how to upload files to FigShare
-keypoints:
-  - You have 20gb of private data and unlimited public data
-  - You can upload files up to 5gb in size through your browser
-  - You can upload bigger files by request
+  - Identify different kinds of reproducibility
+  - Identify what in your research you want to enable others to reproduce
+keypoints: []
 is-break: null
 ukrn_wb_rules:
   - allow-multiple
