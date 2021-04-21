@@ -18,10 +18,11 @@ dependencies: []
 originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 
 ---
-> ## FigShare tutorial `20 min`
-> For this lesson we are going to be following through the FigShare tutorial:
-> <a href="https://help.figshare.com/article/how-to-upload-and-publish-your-data" target="_blank">https://help.figshare.com/article/how-to-upload-and-publish-your-data</a>
->
-> The link will open in a new tab.
-> When you have completed the tutorial, you can close the tab.
-{: .challenge}
+## Motivations
+
+The motivations for working to ensure that research is reproducible:
+
+* funder, journal obligations
+* collaborating with yourself over time and other self-centred benefits
+* the benefits to your science: diversity of pipelines, multiverses; collating data across studies; error checking
+* the rhetoric of reaction
