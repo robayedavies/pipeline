@@ -18,7 +18,7 @@ keypoints:
 is-break: null
 ukrn_wb_rules: []
 day: 1
-order: 175000
+order: 100000
 missingDependencies: []
 dependencies: []
 originalRepository: mjaquiery/ukrn-test-workshop
