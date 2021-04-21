@@ -1,7 +1,7 @@
 ---
 title: Introduction
 teaching: 10
-exercises: null
+exercises: 20
 duration: null
 summary: This template shows you how to include embedded videos in your lessons.
 questions: null
