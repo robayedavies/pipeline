@@ -1,16 +1,13 @@
 ---
-title: External Lesson
+title: Identify the elements of the pipeline
 teaching: null
-exercises: 20
+exercises: 30
 duration: null
-summary: This template shows you how to use an external tutorial as a lesson.
+summary: Identify the elements of the pipeline in your workflow
 questions: null
 objectives:
-  - Understand how to upload files to FigShare
-keypoints:
-  - You have 20gb of private data and unlimited public data
-  - You can upload files up to 5gb in size through your browser
-  - You can upload bigger files by request
+  - Identify the elements of the pipeline in your workflow
+keypoints: []
 is-break: null
 ukrn_wb_rules:
   - allow-multiple
