@@ -24,7 +24,16 @@ dependencies: []
 originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 
 ---
-## R-Markdown
+## The workflow, the pipeline
+
+We begin by describing the project, outlining two key aspects of our work:
+
+1. The **data flow**, how we get from response recording for tests administered in the field to the processed data-sets used in analyses reported in project outputs;
+2. The **research flow**, how we work with project data, information located on online data and code repositories (Dropbox, OSF, GitHub), to conduct the studies that fulfil the project aims.
+
+It is common in data science and other fields to talk about the *data or the analysis pipeline* or the *workflow* [@wilson2017good].
+These terms capture important features of working in modern psychological research that should be considered thoughtfully.
+
 
 ### Embedding Videos
 
