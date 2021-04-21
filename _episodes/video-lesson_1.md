@@ -17,7 +17,7 @@ dependencies: []
 originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 
 ---
-## Markdown
+## R-Markdown
 
 ### Embedding Videos
 
