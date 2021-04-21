@@ -1,11 +1,18 @@
 ---
-title: Introduction
-teaching: 10
-exercises: 20
+title: "Introduction: the idea of the workflow, the image of the pipeline"
+teaching: 15
+exercises: null
 duration: null
-summary: This template shows you how to include embedded videos in your lessons.
-questions: null
-objectives: null
+summary: Introduces the idea of the research workflow -- organised around a
+  pipeline -- and explores how pipelines can and do vary, and what that
+  variation implies
+questions:
+  - What are the stages of the pipeline?
+  - What are the documents associated with each stage?
+  - What are the processes that get you from stage to stage?
+objectives:
+  - Attendees should be able to link components of their research work to
+    pipeline stages.
 keypoints: null
 is-break: null
 ukrn_wb_rules:
