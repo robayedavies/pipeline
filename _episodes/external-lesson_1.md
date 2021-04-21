@@ -1,5 +1,5 @@
 ---
-title: Identify the elements of the pipeline
+title: Identify the elements of the pipeline in your work
 teaching: null
 exercises: 45
 duration: null
