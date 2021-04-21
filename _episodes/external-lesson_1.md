@@ -1,7 +1,7 @@
 ---
 title: Identify the elements of the pipeline
 teaching: null
-exercises: 30
+exercises: 45
 duration: null
 summary: Identify the elements of the pipeline in your workflow
 questions: null
