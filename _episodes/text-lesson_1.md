@@ -1,8 +1,8 @@
 ---
 title: Discussion time
-teaching: 10
-exercises: 20
-duration: null
+teaching: null
+exercises: null
+duration: 15
 summary: We co-write a list of workflow pipeline stages.
 questions:
   - What does each stage comprise?
