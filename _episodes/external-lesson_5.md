@@ -1,5 +1,5 @@
 ---
-title: Reproducibility
+title: Reproducibility and the data-model-narrative multiverses
 teaching: 20
 exercises: 10
 duration: null
