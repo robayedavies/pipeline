@@ -1,7 +1,7 @@
 ---
 title: "Introduction: the idea of the workflow, the image of the pipeline"
-teaching: 15
-exercises: null
+teaching: 20
+exercises: 10
 duration: null
 summary: Introduces the idea of the research workflow -- organised around a
   pipeline -- and explores how pipelines can and do vary, and what that
@@ -11,8 +11,9 @@ questions:
   - What are the documents associated with each stage?
   - What are the processes that get you from stage to stage?
 objectives:
-  - Attendees should be able to link components of their research work to
-    pipeline stages.
+  - Attendees should next be able to link components of their research work to
+    pipeline stages
+  - Capture questions, uncertainty, about research workflow management
 keypoints: null
 is-break: null
 ukrn_wb_rules:
